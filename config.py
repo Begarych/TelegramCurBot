@@ -1,4 +1,4 @@
-TOKEN = "6722742339:AAHKEnZq-uUlq-bG4_Y-qZfy-DQgeoUL5kc"
+TOKEN = "Your Token"
 
 values = {
     "dollars": "USD",
